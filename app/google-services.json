@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "30059573803",
+    "firebase_url": "https://fir-adsintegration.firebaseio.com",
+    "project_id": "fir-adsintegration",
+    "storage_bucket": "fir-adsintegration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30059573803:android:ac45bb818e2f3629",
+        "android_client_info": {
+          "package_name": "com.purvik.firebaseadsintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30059573803-rvfghv5ku5q9uu2145jgpksddode9ep6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTeUidj2Vu4lye_RMxPInolKd0UWcjwPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
